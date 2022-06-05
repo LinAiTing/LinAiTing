@@ -1,4 +1,4 @@
-## I'm AiTing
+##  AiTing
 
 ### Nice to meet you. 👋
 - 🔭 I’m currently a student.
