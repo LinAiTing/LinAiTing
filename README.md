@@ -3,6 +3,7 @@
 ### Nice to meet you. 👋
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning Management of Information System
+- I'm 20 years old.
 
 
 <!--
